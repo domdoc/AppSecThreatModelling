@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "owner": "JY",
+    "title": "Mobile Y"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "MZ"
+  },
+  "location": {
+    "organisation": "domdoc",
+    "repo": "ITS-AppSec-RAC",
+    "branch": "master",
+    "model": "Mobile Y"
+  }
+}
