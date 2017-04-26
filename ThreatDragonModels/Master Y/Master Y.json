@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Master Y",
+    "owner": "JY"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  },
+  "location": {
+    "organisation": "domdoc",
+    "repo": "AppSecThreatModelling",
+    "branch": "master",
+    "model": "Master Y"
+  }
+}
